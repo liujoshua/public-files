@@ -1,0 +1,1 @@
+fdb92905-b9f5-467d-ba51-cbf144854cd7 autoenable=true bucket=liujoshua-public-files chunk=0 datacenter=US encryption=none fileprefix=git-annex/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1475188947.784698s
